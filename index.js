@@ -20,6 +20,7 @@ function johnLennonFacts(facts){
 
 function iLoveTheBeatles(n){
   var emptyArray = [];
-  do 
+  do {
+    
   return 
 }
