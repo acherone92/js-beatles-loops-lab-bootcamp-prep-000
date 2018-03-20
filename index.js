@@ -18,6 +18,8 @@ function johnLennonFacts(facts){
   return loudFacts;
 }
 
-function iLoveTheBeatles(){
-  return
+function iLoveTheBeatles(n){
+  var emptyArray = [];
+  do 
+  return 
 }
